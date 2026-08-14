@@ -1,7 +1,7 @@
 # Agent Security Decision Chain — Model Specification
 
-**Version:** 0.1
-**Status:** Experimental
+**Version:** 0.1  
+**Status:** Experimental  
 **Maintainer:** Okamoto Security Labs
 
 ## 1. Purpose

@@ -1,6 +1,6 @@
 # Agent Security Decision Chain
 
-**Version:** v0.1 — Experimental
+**Version:** v0.1 — Experimental  
 **Author:** Gustavo O. / Okamoto Security Labs
 
 The **Agent Security Decision Chain (ASDC)** is an open security model for reasoning about whether an autonomous AI agent action should be allowed to execute.
