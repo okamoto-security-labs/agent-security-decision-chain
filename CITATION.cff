@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use the Agent Security Decision Chain, please cite this repository."
+title: "Agent Security Decision Chain"
+version: "0.1"
+authors:
+  - family-names: "Okamoto"
+    given-names: "Gustavo"
+date-released: "2026-08-14"
+repository-code: "https://github.com/okamoto-security-labs/agent-security-decision-chain"
