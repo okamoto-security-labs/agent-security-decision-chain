@@ -136,7 +136,7 @@ It is a model for reasoning about the security boundary between **agent intent a
 
 ## Vortex DFS
 
-[Vortex DFS](https://github.com/) is an independent experimental project exploring deterministic runtime security concepts related to parts of this decision chain.
+[Vortex DFS](https://github.com/okamoto-security-labs/Vortex-DFS) is an independent experimental project exploring deterministic runtime security concepts related to parts of this decision chain.
 
 ASDC does **not** depend on Vortex DFS.
 
